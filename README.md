@@ -27,6 +27,12 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 ## Conference Paper
 
 ### Sign Language Recognition
+- [BMVC 2026] Recognising BSL Fingerspelling in Continuous Signing Sequences. [[paper]](https://arxiv.org/abs/2603.19523)  
+*Alyssa Chan, Taein Kwon, Andrew Zisserman*
+- [BMVC 2026] RAIDAL: Redundancy-Aware Information Density Active Learning for CTC-Based Continuous Sign Language Recognition. [[paper pending]](https://bmvc2026.bmva.org/programme/accepted_papers/)  
+*Full author list pending.*
+- [BMVC 2026] SMART: MLLM-guided Temporal Alignment for Unifying Sign Language Recognition and Spotting. [[paper]](https://arxiv.org/abs/2608.25493)  
+*Eunjee Choi, JungHoon Sung, Seongwhan Cho, Chu Xin, Younggeun Choi*
 - [ICLR 2026] BANZ-FS: BANZSL FINGERSPELLING DATASET. [[paper]](https://openreview.net/forum?id=GMR9BUsPbq)     
 *Xin Shen, Yan Ke, Xinyu Wang, Xin Yu*
 - [EMNLP 2025] Logos as a Well-Tempered Pre-train for Sign Language Recognition. [[paper]](https://aclanthology.org/2025.emnlp-main.1238/)    
@@ -50,10 +56,26 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Recognition](./complete_list/sign_language_recognition.md)
 
 ### Sign Language Translation
-- [ACL 2026] Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2604.15301)     
+- [ECCV 2026] Q-BridgeNet: A Quantization Network for Cross-Lingual Sign Language Translation. [[paper]](https://eccv.ecva.net/virtual/2026/poster/5559)  
+*Liqian Feng, Lintao Wang, Xiaochen Liu, Anusha Withana, Ken-Tye Yong, Dehui Kong, Zhiyong Wang, Kun Hu*
+- [ECCV 2026] Video-Text Alignment Model for Sign Language Translation. [[paper]](https://eccv.ecva.net/virtual/2026/poster/3633)  
+*Junyi Hu, Zhewen He, Haomian Huang, Yi Fang, Aoxiang Yang*
+- [ECCV 2026] SIGNET: Motion-Level Knowledge Transfer for Cross-Language Sign Language Translation. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4999)  
+*Sobhan Asasi, Ozge Mercanoglu Sincan, Richard Bowden*
+- [ECCV 2026] SignBind-LLM: Multi-Stage Modality Fusion for Sign Language Translation. [[paper]](https://eccv.ecva.net/virtual/2026/poster/5003)  
+*Marshall Thomas, Edward Fish, Richard Bowden*
+- [ECCV 2026] Event Stream-based Sign Language Translation: A High-Definition Benchmark Dataset and A Novel Baseline. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4859)  
+*Shiao Wang, Xiao Wang, Duoqing Yang, Yao Rong, Fuling Wang, Jianing Li, Lin Zhu, Bo Jiang*
+- [ACL 2026] SAME: Signer-Aware Mixture-of-Experts for Test-Time Adaptation in Sign Language Translation. [[paper]](https://aclanthology.org/2026.acl-long.973/)  
+*Lujia Yang, Weicai Yan, Yongbo He, Qifei Zhang, Tao Jin, Jinshan Zhang, Meng Xi, Jianwei Yin*
+- [ACL Findings 2026] Can Small Vision–Language Models Perform Sign Language Translation? [[paper]](https://aclanthology.org/2026.findings-acl.1609/)  
+*Anal Roy Chowdhury, Debarshi Kumar Sanyal*
+- [ACL Findings 2026] J-Shuwa: A Large-Scale Web-Collected Japanese Sign Language-Japanese Parallel Corpus. [[paper]](https://aclanthology.org/2026.findings-acl.1821/)  
+*Junwen Mo, MinhDuc Vo, Noriki Nishida, Shin’ichi Satoh, Hideki Nakayama*
+- [ACL 2026] Think in Latent Thoughts: A New Paradigm for Gloss-Free Sign Language Translation. [[paper]](https://aclanthology.org/2026.acl-long.454/)     
 *Yiyang Jiang, Li Zhang, Xiao-Yong Wei, Li Qing*
-- [ACL 2026] Selective Contrastive Learning For Gloss Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2604.22374)     
-*Changhao Lai, Rui Zhao, Xuewen Zhong, Jinsong Su, Yidong Chen*
+- [ACL 2026] Selective Contrastive Learning For Gloss Free Sign Language Translation. [[paper]](https://aclanthology.org/2026.acl-long.2116/)     
+*Chang Hao Lai, Rui Zhao, Xuewen Zhong, Jinsong Su, Yidong Chen*
 - [CVPR 2026] Learning Effective Sign Features without Text for Gloss-free Sign Language Translation. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39809)     
 *Shiwei Gan, Xiao Liu, Yafeng Yin, Nan Liu, Kuizhuang Liu, Desibieer Tuerdaken, Zhiwei Jiang, Lei Xie, Sanglu Lu, Hongkai Wen*
 - [CVPR 2026] BoostSLT: Boosting Sign Language Translation via a Plug-and-Play Diffusion-Based Semantic Enhancer. [[paper]](https://cvpr.thecvf.com/virtual/2026/oral/40375)     
@@ -74,8 +96,8 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 *Jungeun Kim, Hyeongwoo Jeon, Jongseong Bae, Ha Young Kim*
 - [ACM MM 2025] Gloss Matters: Unlocking the Potential of Non-Autoregressive Sign Language Translation. [[paper]](https://dl.acm.org/doi/10.1145/3746027.3755319)     
 *Zhihao Wang, Shiyu Liu, Zhiwei He, Kangjie Zheng, Liangying Shao, Junfeng Yao, Jinsong Su*
-- [BMVC 2025] Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation. [[paper]](https://arxiv.org/abs/2507.23575)     
-*Sobhan Asasi, Mohamed Ilyas Lakhal, Ozge Mercanoglu Sincan, Richard Bowden*
+- [BMVC 2025] Beyond Gloss: A Hand-Centric Framework for Gloss-Free Sign Language Translation. [[paper]](https://bmvc2025.bmva.org/proceedings/626/)     
+*Sobhan Asasi, Mohamed Ilyes Lakhal, Ozge Mercanoglu Sincan, Richard Bowden*
 - [ACL 2025] SHuBERT: Self-Supervised Sign Language Representation Learning via Multi-Stream Cluster Prediction. [[paper]](https://aclanthology.org/2025.acl-long.1397/)     
 *Shester Gueuwou, Xiaodan Du, Greg Shakhnarovich, Karen Livescu, Alexander H. Liu*
 - [ACL 2025] Multilingual Gloss-free Sign Language Translation: Towards Building a Sign Language Foundation Model. [[paper]](https://aclanthology.org/2025.acl-short.43/)     
@@ -85,6 +107,22 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Translation](./complete_list/sign_language_translation.md)
 
 ### Sign Language Production
+- [BMVC 2026] SignFML: Gloss-Free Sign Language Production via Multi-Scale Latent Flow Matching. [[paper pending]](https://bmvc2026.bmva.org/programme/accepted_papers/)  
+  *Kieu Vo, Tho Quan*
+- [BMVC 2026] M3T: Discrete Multi-Modal Motion Tokens for Sign Language Production. [[paper]](https://arxiv.org/abs/2603.23617)  
+  *Alexandre Symeonidis-Herzig, Jianhe Low, Ozge Mercanoglu Sincan, Richard Bowden*
+- [BMVC 2026] SignRR: Retrieve and Refine Real Motion for Sign Language Production. [[paper]](https://arxiv.org/abs/2608.28568)  
+  *Fidel Omar Tito Cruz, Angie Sanchez Marquina, Summy Farfan, Gissella Bejarano*
+- [ECCV 2026] SignSparK: Efficient Multilingual Sign Language Production via Sparse Keyframe Learning. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4491)  
+  *Jian He Low, Alexandre Symeonidis-Herzig, Maksym Ivashechkin, Ozge Mercanoglu Sincan, Richard Bowden*
+- [ECCV 2026] SignRefine: Adapting Foundational Video Models for Sign Language Generation. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4976)  
+  *Anton Pelykh, Edward Fish, Ozge Mercanoglu Sincan, Richard Bowden*
+- [ECCV 2026] SIGNER: Temporally Grounded Sign Language Generation via Time-Resolved Conditioning. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4313)  
+  *Taeryung Lee, Hyeongjin Nam, Gyeongsik Moon, Kyoung Mu Lee*
+- [ACL 2026] Hybrid Autoregressive-Diffusion Model for Real-Time Sign Language Production. [[paper]](https://aclanthology.org/2026.acl-long.31/)  
+  *Maoxiao Ye, Xinfeng Ye, Sathiamoorthy Manoharan*
+- [ACL 2026] Stable Signer: Hierarchical Sign Language Generative Model. [[paper]](https://aclanthology.org/2026.acl-long.659/)  
+  *Sen Fang, Yalin Feng, Hongbin Zhong, Yanxin Zhang, Dimitris N. Metaxas*
 - [WACV 2026] DexAvatar: 3D Sign Language Reconstruction with Hand and Body Pose Priors. [[paper]](https://openaccess.thecvf.com/content/WACV2026/papers/Kundu_DexAvatar_3D_Sign_Language_Reconstruction_with_Hand_and_Body_Pose_WACV_2026_paper.pdf)   
   *Kaustubh Kundu, Hrishav Bakul Barua, Lucy Robertson-Bell, Zhixi Cai, Kalin Stefanov*
 - [CVPR 2026] Focal–General Diffusion Model with Semantic Consistent Guidance for Sign Language Production. [[paper]](https://cvpr.thecvf.com/virtual/2026/poster/39783)   
@@ -116,9 +154,23 @@ A curated list of sign language procesing (e.g., sign language recognition, sign
 - [Complete List of Sign Language Production](./complete_list/sign_language_production.md)
 
 ### Other Sign Language Topic
+- [BMVC 2026] SignMatch: Matching Dictionary Signs to Continuous Sign Language Video. [[paper]](https://arxiv.org/abs/2609.01886)  
+*Ryan Wong, Youngjoon Jang, Liliane Momeni, Gül Varol, Andrew Zisserman*
+- [ECCV 2026] SignNet-1M: Large-Scale Multilingual Sign Language Video Dataset with Downstream Benchmarks. [[paper]](https://eccv.ecva.net/virtual/2026/poster/3533)  
+*Zhewen He, Junyi Hu, Haomian Huang, Zhenhua Li, Yushen Liu, Yi Fang*
+- [ECCV 2026] BackTranslation2.0 - A Linguistically Motivated Metric to Assess Sign Language Production. [[paper]](https://eccv.ecva.net/virtual/2026/poster/4935)  
+*Oliver Cory, Maksym Ivashechkin, Oline Ranum, Jian He Low, Edward Fish, Anton Pelykh, Karahan Sahin, Ozge Mercanoglu Sincan, Richard Bowden*
+- [ACL 2026] Semantic Hardness Is Not Visual Hardness: Sign-Aware Hard Negative Mining for Sign Language Retrieval. [[paper]](https://aclanthology.org/2026.acl-long.1302/)  
+*Junmyeong Lee, Chan Hur, ChangSu Choi, Sukmin Cho, Fitsum Gaim, Eui Jun Hwang, Hoyun Song, KyungTae Lim*
+- [ACL 2026] Segment, Embed, and Align: A Universal Recipe for Aligning Subtitles to Signing. [[paper]](https://aclanthology.org/2026.acl-long.1401/)  
+*Zifan Jiang, Youngjoon Jang, Liliane Momeni, Gül Varol, Sarah Ebling, Andrew Zisserman*
+- [ACL 2026] The Visual Iconicity Challenge: Evaluating Vision-Language Models on Sign Language Form–Meaning Mapping. [[paper]](https://aclanthology.org/2026.acl-long.1907/)  
+*Onur Keleş, Asli Ozyurek, Gerardo Ortega, Kadir Gökgöz, Esam Ghaleb*
+- [ACL 2026] Sign-Language Datasets at Scale: A Comprehensive Survey on Resources, Benchmarks, and Annotation Standards. [[paper]](https://aclanthology.org/2026.acl-long.1928/)  
+*Yiming Ni, Zhi-Qi Cheng, Jiayu Li, Wei Cheng*
 - [OpenReview] LexSign: Learning Sign Language from Lexical Descriptions. [[paper]](https://openreview.net/forum?id=mOFGOK6Vmo)     
 *Honggang Zou, Yuecong Min, Peiqi Jiao, Xilin Chen*
-- [ACL 2026] CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language. [[paper]](https://arxiv.org/abs/2604.22367)     
+- [ACL 2026] CNSL-bench: Benchmarking the Sign Language Understanding Capabilities of MLLMs on Chinese National Sign Language. [[paper]](https://aclanthology.org/2026.acl-long.1896/)     
 *Rui Zhao, Xuewen Zhong, Xiaoyun Zheng, Jinsong Su, Yidong Chen*
 - [CVPR 2026] OpenFS: Multi-Hand-Capable Fingerspelling Recognition with Implicit Signing-Hand Detection and Frame-Wise Letter-Conditioned Synthesis. [[paper]](https://arxiv.org/abs/2602.22949)     
 *Junuk Cha, Jihyeon Kim, Han-Mu Park*
