@@ -1,5 +1,18 @@
 ## Gesture Recognition
 [[Back]](../README.md)
+
+[2026 ECCV, ACL, and BMVC coverage and verification notes](./2026_gesture_survey.md)
+
+- [ECCV 2026] Amplify, Aggregate, and Adjust: VideoMAE-based Holistic-Subtle Aggregation for Micro-Action Recognition. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/4219)  
+*Yan Zhang, Nan Pu, Wenjing Li, Zhun Zhong, Meng Wang*
+- [ECCV 2026] Beyond Language: Grounding Referring Expressions with Hand Pointing in Egocentric Vision. [[paper]](https://arxiv.org/abs/2603.26646)  
+*Ling Li, Bowen Liu, Zinuo Zhan, Peng Jie, Jianhui Zhong, Kenglun Chang, Zhidong Deng*
+- [ECCV 2026] BiCE-HG: A Bi-Conditional Egocentric Hand Gesture Dataset for Intelligent Reality Systems. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/5982)  
+*Awfa Dakheel, Charith Abhayaratne*
+- [ECCV 2026] Recognizing Co-Speech Gestures in-the-Wild. [[paper]](https://eccv.ecva.net/virtual/2026/poster/3706)  
+*Sindhu Hegde, K R Prajwal, Andrew Zisserman*
+- [ECCV 2026] S2Gest: Split-Scan State Space Models for Dynamic Hand Gesture Recognition. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/3811)  
+*KeFan Chen, Yong Gu, Bo Li, Longjie Huang, Jiajun Zhang*
 - [NeurIPS 2025] Doodle to Detect: A Goofy but Powerful Approach to Skeleton-based Hand Gesture Recognition. [[paper]](https://openreview.net/forum?id=u8SXX5ITE6)     
 *Sang Hoon Han, Seonho Lee, Hyeok Nam, Jae Hyeon Park, Min Hee Cha, Min Geol Kim, Hyunse Lee, Sangyeon Ahn, Chae moon ju, Sung In Cho*
 - [CVPR 2025] Ges3ViG: Incorporating Pointing Gestures into Language-Based 3D Visual Grounding for Embodied Reference Understanding. [[paper]](https://openaccess.thecvf.com/content/CVPR2025/html/Mane_Ges3ViG__Incorporating_Pointing_Gestures_into_Language-Based_3D_Visual_Grounding_CVPR_2025_paper.html)      

@@ -1,5 +1,18 @@
 ## Co-speech Generation
 [[Back]](../README.md)
+
+[2026 ECCV, ACL, and BMVC coverage and verification notes](./2026_gesture_survey.md)
+
+- [ECCV 2026] CtrlCoMo: Controllable Co-Speech Motion Generation with Gesture–Action Disentanglement. [[paper pending]](https://eccv.ecva.net/virtual/2026/poster/5059)  
+*Xinghan Wang, Ming Zhou, Yanbo Zheng, Youjiang Xu, Yuan Zhang, Mingyuan Gao, Nan Zhuang, Yadong Mu*
+- [ECCV 2026] HolisticSemGes: Semantic Grounding of Holistic Co-Speech Gesture Generation with Contrastive Flow-Matching. [[paper]](https://arxiv.org/abs/2603.26553)  
+*Lanmiao Liu, Esam Ghaleb, Aslı Özyürek, Zerrin Yumak*
+- [ECCV 2026] RoboGesture: Real-Time Semantic-aligned Co-Speech Gestures Generation for Humanoid Interaction. [[paper]](https://arxiv.org/abs/2608.28693)  
+*Zifan Wang, Ziang Ren, Pengyang Shi, Zirui Wang, Chenghuai Lin, Tianze Wang, Zekun Qi, Liangliang Zhao, He Wang, Li Yi*
+- [ECCV 2026] SICAGE: Speaker-Independent Culture-Aware Gesture Generation using TED4C-L Dataset. [[paper]](https://arxiv.org/abs/2606.30001)  
+*Ariel Gjaci, Antonio Sgorbissa, Vittorio Murino*
+- [ECCV 2026] StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring. [[paper]](https://arxiv.org/abs/2608.01643)  
+*Jianfang Li, Xiangyue Zhang, Jiaxu Zhang, Kaixing Yang, Steven Hoi*
 - [NeurIPS 2025] PyraMotion: Attentional Pyramid-Structured Motion Integration for Co-Speech 3D Gesture Synthesis. [[paper]](https://openreview.net/forum?id=QJSrgYcf4b)     
 *Zhizhuo Yin, Yuk Hang Tsui, Pan Hui*
 - [ICCV 2025] Democratizing High-Fidelity Co-Speech Gesture Video Generation. [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Yang_Democratizing_High-Fidelity_Co-Speech_Gesture_Video_Generation_ICCV_2025_paper.html)    
